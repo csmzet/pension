@@ -1,0 +1,13 @@
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\pension.exe.config
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\pension.exe
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\pension.pdb
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\WebDriver.dll
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\WebDriver.Support.dll
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\WebDriver.xml
+E:\Work\Selenium\vs2015\pension\pension\bin\Debug\WebDriver.Support.xml
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.csprojResolveAssemblyReference.cache
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.Form1.resources
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.Properties.Resources.resources
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.csproj.GenerateResource.Cache
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.exe
+E:\Work\Selenium\vs2015\pension\pension\obj\Debug\pension.pdb
